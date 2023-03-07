@@ -1,0 +1,221 @@
+{
+  "users": [
+    {
+      "fullname": "Maria silva",
+      "contact": "35331696",
+      "email": "mariasilva@gmail.com",
+      "number_rg": "00000000",
+      "cpf": "123",
+      "password": "teste123",
+      "andress": {
+        "andress": {
+          "cep": "00000000",
+          "street": "João Batista ",
+          "city": "Pratapolis",
+          "region": "Centro",
+          "number": "172",
+          "complement": "Casa"
+        }
+      },
+      "billing_day": "2022-09-25",
+      "id": 1
+    },
+    {
+      "fullname": "Gabriel Fernandes Amorim ",
+      "contact": "999421330",
+      "email": "gabrielfernandes_prata@outlook.con",
+      "number_rg": "000000000",
+      "cpf": "000000000",
+      "password": "senha123",
+      "andress": {
+        "street": {
+          "cep": "37970000",
+          "andress": "Nossa senhora de Nazaré ",
+          "city": "Pratapolis ",
+          "state": "Minas gerais ",
+          "neighborhood": "Centro",
+          "number": "284",
+          "complement": "Casa"
+        }
+      },
+      "billing_day": "2022-09-25",
+      "id": 2
+    }
+  ],
+  "debts": [
+    {
+      "id": 1234534,
+      "amount": 230.23,
+      "recipient": "EPP Energias do Mundo"
+    },
+    {
+      "id": 545434326,
+      "amount": 30.23,
+      "recipient": "DevInHouse Ltda"
+    }
+  ],
+  "invoices": [
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 1
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 2
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 3
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 4
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 5
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 6
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 7
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 8
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 9
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 10
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 11
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "1",
+      "cashback": 23.023,
+      "id": 12
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "teste",
+      "code": "545434326",
+      "user_id": "1",
+      "cashback": 3.023,
+      "id": 13
+    },
+    {
+      "recipient": "EPP Energias do Mundo",
+      "amount": 230.23,
+      "date": "teste",
+      "code": "1234534",
+      "user_id": "2",
+      "cashback": 23.023,
+      "id": 14
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "teste",
+      "code": "545434326",
+      "user_id": "2",
+      "cashback": 3.023,
+      "id": 15
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "teste",
+      "code": "545434326",
+      "user_id": "2",
+      "cashback": 3.023,
+      "id": 16
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "teste",
+      "code": "545434326",
+      "user_id": "2",
+      "cashback": 3.023,
+      "id": 17
+    },
+    {
+      "recipient": "DevInHouse Ltda",
+      "amount": 30.23,
+      "date": "teste",
+      "code": "545434326",
+      "user_id": "2",
+      "cashback": 3.023,
+      "id": 18
+    }
+  ]
+}
